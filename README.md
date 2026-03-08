@@ -39,16 +39,6 @@ The system aims to provide a simple platform for farm tourism and organic produc
 Stored in `wwwroot/images` for cabins and products.
 
 
-# 🖼 Screenshots
-
-| Screenshot                                                                                |
-| ----------------------------------------------------------------------------------------- |
-| **Homepage**<br>![Homepage](FarmManagement/screenshots/home.png)                          |
-| **Cabins Page**<br>![Cabins](FarmManagement/screenshots/cabins.png)                       |
-| **Admin Dashboard**<br>![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
-| **Products Page**<br>![Products](FarmManagement/screenshots/products.png)                 |
-
-
 # ⚙️ Installation
 
 1. Clone repo:
@@ -62,11 +52,21 @@ Stored in `wwwroot/images` for cabins and products.
 4. Run project (Ctrl + F5).
 
 
-
 # 📈 Future Improvements
 
 * User registration & login
 * Password hashing
 * Online booking & payment integration
 * Email notifications
+
+
+
+# 🖼 Screenshots
+
+| Screenshot                                                                                |
+| ----------------------------------------------------------------------------------------- |
+| **Homepage**[Homepage](FarmManagement/screenshots/home.png)                          |
+| **Cabins Page**[Cabins](FarmManagement/screenshots/cabins.png)                       |
+| **Admin Dashboard**[Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
+| **Products Page**[Products](FarmManagement/screenshots/products.png)                 |
 
