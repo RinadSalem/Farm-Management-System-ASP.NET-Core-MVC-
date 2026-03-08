@@ -1,4 +1,4 @@
-# 🌿 Farm Management System
+# 🌿 Farm Management System (ASP.NET Core MVC)
 
 A web-based farm management platform built with **ASP.NET Core MVC** that allows users to explore farm cabins and organic products, while administrators can manage cabins, products, and bookings through an admin dashboard.
 
