@@ -42,7 +42,7 @@ Stored in `wwwroot/images` for cabins and products.
 # ⚙️ Installation
 
 1. Clone repo:
-   `git clone https://github.com/yourusername/FarmManagement.git`
+   `git clone https://github.com/RinadSalem /FarmManagement.git`
 2. Open in Visual Studio 2022.
 3. Update connection string in `FarmBookingDBContext.cs`:
 
@@ -62,11 +62,9 @@ Stored in `wwwroot/images` for cabins and products.
 
 
 # 🖼 Screenshots
-
 | Screenshot                                                                                |
 | ----------------------------------------------------------------------------------------- |
-| **Homepage**[Homepage](FarmManagement/screenshots/home.png)                          |
-| **Cabins Page**[Cabins](FarmManagement/screenshots/cabins.png)                       |
-| **Admin Dashboard**[Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
-| **Products Page**[Products](FarmManagement/screenshots/products.png)                 |
-
+| **Homepage**<br>![Homepage](FarmManagement/screenshots/home.png)                          |
+| **Cabins Page**<br>![Cabins](FarmManagement/screenshots/cabins.png)                       |
+| **Admin Dashboard**<br>![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
+| **Products Page**<br>![Products](FarmManagement/screenshots/products.png)                 |
