@@ -4,7 +4,7 @@ A web-based farm management platform built with **ASP.NET Core MVC** that allows
 
 The system aims to provide a simple platform for farm tourism and organic product management.
 
----
+
 
 # 📌 Features
 
@@ -24,7 +24,7 @@ The system aims to provide a simple platform for farm tourism and organic produc
 * Manage bookings (Create/Edit/Delete/View)
 * Upload images for products and cabins
 
----
+
 
 
 # 🧰 Technologies
@@ -32,44 +32,24 @@ The system aims to provide a simple platform for farm tourism and organic produc
 * **Backend:** ASP.NET Core MVC (.NET 6), C#, Entity Framework Core, SQL Server
 * **Frontend:** Razor Views, HTML5, CSS3, Bootstrap, JavaScript, Swiper.js
 
----
+
 
 # 🖼 Images
 
 Stored in `wwwroot/images` for cabins and products.
 
----
-
-تمام 😄، سأجهز لك **جدول Markdown 3x3 لعرض 9 صور** جاهز للـ GitHub README. يمكنك لاحقًا استبدال الروابط بالصور الفعلية الموجودة في `wwwroot/images`.
-
----
-
-# 🌿 Farm Management System
-
-A web-based farm management platform built with **ASP.NET Core MVC** for managing farm cabins, organic products, and bookings.
-
----
-
-# 📌 Features
-
-* Public pages: homepage, cabins, products, farm activities
-* Admin Dashboard: manage products, cabins, bookings, upload images
-
----
 
 # 🖼 Screenshots
 
 | Homepage                                 | Cabins Page                          |
 | ---------------------------------------- | ------------------------------------ |
-| ![Homepage](\screenshots/home.png) | ![Cabins](\screenshots/cabins.png) |
+| ![Homepage](FarmManagement/screenshots/home.png) | ![Cabins](FarmManagement/screenshots/cabins.png) |
 
 | Admin Dashboard                              | Products Page                            |
 | -------------------------------------------- | ---------------------------------------- |
-| ![Admin Dashboard](\screenshots/admin-dashboard.png) | ![Products](\screenshots/products.png) |
+| ![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) | ![Products](FarmManagement/screenshots/products.png) |
 
 
-
----
 
 
 # ⚙️ Installation
@@ -84,7 +64,7 @@ A web-based farm management platform built with **ASP.NET Core MVC** for managin
    ```
 4. Run project (Ctrl + F5).
 
----
+
 
 # 📈 Future Improvements
 
