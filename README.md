@@ -41,15 +41,12 @@ Stored in `wwwroot/images` for cabins and products.
 
 # 🖼 Screenshots
 
-| Homepage                                 | Cabins Page                          |
-| ---------------------------------------- | ------------------------------------ |
-| ![Homepage](FarmManagement/screenshots/home.png) | ![Cabins](FarmManagement/screenshots/cabins.png) |
-
-| Admin Dashboard                              | Products Page                            |
-| -------------------------------------------- | ---------------------------------------- |
-| ![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) | ![Products](FarmManagement/screenshots/products.png) |
-
-
+| Screenshot                                                                                |
+| ----------------------------------------------------------------------------------------- |
+| **Homepage**<br>![Homepage](FarmManagement/screenshots/home.png)                          |
+| **Cabins Page**<br>![Cabins](FarmManagement/screenshots/cabins.png)                       |
+| **Admin Dashboard**<br>![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
+| **Products Page**<br>![Products](FarmManagement/screenshots/products.png)                 |
 
 
 # ⚙️ Installation
