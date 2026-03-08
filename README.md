@@ -66,5 +66,6 @@ Stored in `wwwroot/images` for cabins and products.
 | ----------------------------------------------------------------------------------------- |
 | **Homepage**<br>![Homepage](FarmManagement/screenshots/home.png)                          |
 | **Cabins Page**<br>![Cabins](FarmManagement/screenshots/cabins.png)                       |
-| **Admin Dashboard**<br>![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
 | **Products Page**<br>![Products](FarmManagement/screenshots/products.png)                 |
+| **Admin Dashboard**<br>![Admin Dashboard](FarmManagement/screenshots/admin-dashboard.png) |
+
