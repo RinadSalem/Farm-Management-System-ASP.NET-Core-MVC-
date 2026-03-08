@@ -61,11 +61,11 @@ A web-based farm management platform built with **ASP.NET Core MVC** for managin
 
 | Homepage                                 | Cabins Page                          |
 | ---------------------------------------- | ------------------------------------ |
-| ![Homepage](screenshots/home.png) | ![Cabins](screenshots/cabins.png) |
+| ![Homepage](\screenshots/home.png) | ![Cabins](\screenshots/cabins.png) |
 
 | Admin Dashboard                              | Products Page                            |
 | -------------------------------------------- | ---------------------------------------- |
-| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![Products](screenshots/products.png) |
+| ![Admin Dashboard](\screenshots/admin-dashboard.png) | ![Products](\screenshots/products.png) |
 
 
 
